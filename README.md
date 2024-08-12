@@ -24,5 +24,5 @@
 </p>
 
 ### Skills.
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,js,html,css,spring,nextjs,mysql,redis,idea,vscode,git,github,bitbucket&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,nextjs,mysql,redis,idea,vscode,git,github,bitbucket&theme=light)](https://skillicons.dev)
 
