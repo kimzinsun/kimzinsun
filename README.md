@@ -13,7 +13,10 @@
   <a href="http://instagram.com/ziinsun">
     <img src="https://skillicons.dev/icons?i=instagram&theme=light"/>
   </a>
-  
+  <a href="https://www.linkedin.com/in/kim-jin-sun-16a5bb320">
+    <img src="https://skillicons.dev/icons?i=linkedin&theme=light"/>
+  </a> 
+
 </p>
 
 ### Skills.
