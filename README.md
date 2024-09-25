@@ -20,7 +20,7 @@
 </p>
 
 ### Skills.
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,nextjs,mysql,redis,postgresql,idea,vscode,git,github,bitbucket&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,spring,nextjs,mysql,redis,postgresql,idea,vscode,git,github,bitbucket,docker&theme=light)](https://skillicons.dev)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kimzinsun&theme=oldie&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)  
